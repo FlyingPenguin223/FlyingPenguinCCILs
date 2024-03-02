@@ -1,2 +1,1 @@
-WIP website for hosting my cc gifs
-basically copies the celeste classic gif database which is here: [text](https://github.com/CelesteClassic/gifs)
+WIP website for hosting my cc gifs which basically copies the celeste classic gif database which is [here](https://github.com/CelesteClassic/gifs)
