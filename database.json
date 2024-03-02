@@ -31,6 +31,7 @@
         "tags": [
             "400",
             "any",
+            "hundo",
             "cc",
             "il"
         ]
@@ -282,15 +283,6 @@
         "url":"celesteILs/hundo/300hundo.gif",
         "tags": [
             "300",
-            "hundo",
-            "cc",
-            "il"
-        ]
-    },
-    {
-        "url":"celesteILs/hundo/400hundo.gif",
-        "tags": [
-            "400",
             "hundo",
             "cc",
             "il"
