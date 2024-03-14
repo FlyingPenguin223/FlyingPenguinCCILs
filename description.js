@@ -18,7 +18,9 @@ fetch("descriptions/"+filename+".txt").then(Response => {
     if (!Response.ok) {
         words.innerHTML = "There is no description for this gif (or a server error occured).";
     } else {
-        words.innerHTML = Response.text();
+        Response.text().then(text => {
+            words.innerHTML = text;
+        });
     }
 });
 text.appendChild(words);
