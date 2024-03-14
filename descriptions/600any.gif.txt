@@ -1,0 +1,7 @@
+Tas tie of 600m any%. Achieved by me on 09/27/2020.|
+|
+very silly tas strat, first one which is rng dependent in any%.|
+start the level holding right and then rightdash on the next frame, and buffer a gracejump|
+then diag to the balloon very early which you should barely grab if you got good rng.|
+do the second diag fairly early as well (I don't know when, it's mostly feel) and cornerjump,|
+then buffer a bunch of walljumps to exit.

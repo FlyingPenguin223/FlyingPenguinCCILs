@@ -1,0 +1,12 @@
+Tas tie of 400 any% and 100%. Achieved by me on 12/26/2020.|
+|
+only level in the game in which the optimal any% strat is also the optimal 100% strat! woah!|
+|
+A deceptively difficult IL, do basically what I do in the gif, but make sure you wait about as long as I do in each step.|
+Hold right, and jump near the edge of the starting platform, then wait a while before walljumping (maybe about the peak of the jump).|
+continue holding right after the walljump and once you just start facing right approximately, upright dash.|
+buffer the walljump and the cornerjump, then dash first frame on collecting the berry and cjump exit.|
+|
+It's quite easy to get 1f off the tas time here, getting the tie will take trying it for a bit.|
+The reason why you need to wait on each step is because you need to dash when the berry is on a specific frame of it's cycle.|
+this is also the first tas strat which is used in normal rta runs.

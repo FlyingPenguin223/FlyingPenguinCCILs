@@ -1,0 +1,8 @@
+Tas tie of 700m any%. Achieved by me on 05/15/2020.|
+|
+This IL is quite easy, but the inputs are really quick and hard to see.|
+Start the level buffering an upright dash, and then buffer a gracejump.|
+updash to clip the next cloud, and buffer a gracejump from that as well|
+then updash again to clip the uppermost cloud. Jump updash to exit from there.|
+|
+This is one of the older still optimal tases in the game, along with 900, 1200, 1900, 2100, 2200, 2300, and 3000.

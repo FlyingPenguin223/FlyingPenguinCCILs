@@ -1,0 +1,8 @@
+Tas tie of 1000m any%. Achieved by me on 08/07/2020.|
+|
+Start this level holding right, then jump and downdash against the starting platform.|
+walljump when you're right in the middle of the lower tile approximately to clip the crumbles.|
+Jump on the first frame you gain height from the boost and updash to clip the upper spikes.|
+Hold left to clip them, and buffer two walljumps and updash to exit.|
+|
+Somewhat simple IL, though saving one frame off of a 2.300 can take a while and just requires clean movement.

@@ -1,0 +1,13 @@
+Tas tie of 800m any%. Achieved by me on 12/25/2022.|
+|
+an annoyingly difficult but not absurd IL.|
+Start the level holding left, and hit the border to change parity and immediately start holding right.|
+Here, the specific timings can vary, so I'll describe my method of doing this IL.|
+|
+Updash when your x position aligns with the left side of the lower block on the overhang (the block you're about to walljump off).|
+tap right for two frames after the updash, then press left the frame before you walljump.|
+If you've done the inputs properly, you should be able to cornerjump very late off the next block,|
+and barely grab the balloon with good rng. Then, hold left for two full frames (!!)before grabbing the balloon.|
+Upleft dash first frame off the balloon and buffer two walljumps to exit.|
+|
+As of writing this (March 14 2024) this is the most recently improved tas in vanilla.

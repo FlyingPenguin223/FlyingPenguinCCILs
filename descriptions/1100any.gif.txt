@@ -1,0 +1,13 @@
+Tas tie of 1100m any%. Achieved by me on 11/03/2020.|
+|
+This IL is extremely hard to judge for me. It's very consistent for me now, and Snoo has hit it in a run before.|
+On the other hand, the inputs are extremely fast and hard to get used to, and almost requires studying the tas file a bit.|
+|
+Start the level holding right, and jump at approximately the corner of the crumble block.|
+Diagonal dash (I like to use the background decoration as a visual cue) and cornerjump twice to clip the cloud.|
+Now, the gauntlet begins. I'll speak approximately here since I would recommend studying the tas file for the specific inputs.|
+|
+gracejump a couple frames late off the cloud boost and hold neutral, and you should end up just against the spikes.|
+tap right for a frame before spikejumping, then updash and press right for a frame or two before cjumping off the upper wall and walljumping again to exit.|
+|
+The inputs are all really fast and complex. Good luck to anyone attemptin to learn this.
