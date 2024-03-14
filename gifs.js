@@ -1,4 +1,4 @@
-//all of this code blatantly taken from the celeste classic gif database.
+//basically all of this code blatantly taken from (and learned from) the celeste classic gif database.
 
 let content = document.getElementById('gifs');
 let database;
@@ -38,11 +38,9 @@ submit.addEventListener('click', () => {
   
     let gifResults = getGifs(searchTags);
     for (let gif of gifResults) {
-      let img = document.createElement("img");
-      img.src = gif.url;
-      img.title = 'Tags: ' + gif.tags.join(", ");
-      img.width = 256;
-      img.height = 256;
+      let img = document.createElement("a");
+      img.href="description.html?lvl="+gif.url
+      img.innerHTML='<img src="'+gif.url+'" title="Tags: '+gif.tags.join(", ")+'" width=256 height=256>'
   
       content.appendChild(img);
     }
