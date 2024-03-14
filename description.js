@@ -19,7 +19,7 @@ fetch("descriptions/"+filename+".txt").then(Response => {
         words.innerHTML = "There is no description for this gif (or a server error occured).";
     } else {
         Response.text().then(text => {
-            text=text.replace(/|/g,"\n")
+            text=text.replace(/\|/g,"\n")
             words.innerHTML = text;
         });
     }
