@@ -20,7 +20,7 @@ fetch("descriptions/"+filename+".txt").then(Response => {
     } else {
         Response.text().then(text => {
             let formattedText = text
-            formattedText = formattedText.replace(/\|/g,"\n");
+            formattedText = formattedText.replace(/\|/g,"\\n");
             words.innerHTML = formattedText;
         });
     }
