@@ -1,7 +1,7 @@
-Tas tie of 100m any%. First achieved by me on 1/13/2021.
-
-First, jump and downdiag onto the first block, then delay the next jump until after the buffer window.
-dash twice across that block and buffer the gracejump from the 2nd dash, and buffer the walljump.
-then, hold left until the first frame you can diag and land on the block.
-while sliding up on the block, release right for 1 or 3 frames to manipulate x subpixels to land 1f faster.
-then, jump and updash exit.
+Tas tie of 100m any%. First achieved by me on 1/13/2021.|
+|
+First, jump and downdiag onto the first block, then delay the next jump until after the buffer window.|
+dash twice across that block and buffer the gracejump from the 2nd dash, and buffer the walljump.|
+then, hold left until the first frame you can diag and land on the block.|
+while sliding up on the block, release right for 1 or 3 frames to manipulate x subpixels to land 1f faster.|
+then, jump and updash exit.|
