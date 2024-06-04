@@ -2,10 +2,10 @@ const params = new URLSearchParams(document.location.search);
 
 let gifs = document.getElementById("gif");
 let text = document.getElementById("text");
-let file = "gifs/"+params.get("lvl");
+let file = params.get("lvl");
 
 let img = document.createElement("img");
-img.src=file
+img.src="gifs/"+file
 img.width=256;
 img.height=256;
 gifs.appendChild(img);
