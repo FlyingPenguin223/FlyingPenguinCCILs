@@ -40,7 +40,7 @@ submit.addEventListener('click', () => {
     for (let gif of gifResults) {
       let img = document.createElement("a");
       img.href="description.html?lvl="+gif.url
-      img.innerHTML='<img src="'+gif.url+'" title="Tags: '+gif.tags.join(", ")+'" width=256 height=256>'
+      img.innerHTML='<img src=gifs/"'+gif.url+'" title="Tags: '+gif.tags.join(", ")+'" width=256 height=256>'
   
       content.appendChild(img);
     }
