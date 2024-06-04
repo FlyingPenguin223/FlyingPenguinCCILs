@@ -2,7 +2,7 @@ const params = new URLSearchParams(document.location.search);
 
 let gifs = document.getElementById("gif");
 let text = document.getElementById("text");
-let file = params.get("lvl");
+let file = "gifs/"+params.get("lvl");
 
 let img = document.createElement("img");
 img.src=file
