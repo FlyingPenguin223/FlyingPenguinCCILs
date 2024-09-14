@@ -489,9 +489,37 @@
         ]
     },
     {
+        "url":"tasonleste/jank.gif",
+        "tags": [
+            "jank",
+            "tasonleste"
+        ]
+    },
+    {
+        "url":"tasonleste/tech.gif",
+        "tags": [
+            "tech",
+            "tasonleste"
+        ]
+    },
+    {
+        "url":"tasonleste/precision.gif",
+        "tags": [
+            "precision",
+            "tasonleste"
+        ]
+    },
+    {
         "url":"tasonleste/tasonly.gif",
         "tags": [
             "tasonly",
+            "tasonleste"
+        ]
+    },
+    {
+        "url":"tasonleste/2300.gif",
+        "tags": [
+            "2300",
             "tasonleste"
         ]
     }
