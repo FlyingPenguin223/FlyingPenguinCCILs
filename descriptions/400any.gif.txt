@@ -8,5 +8,5 @@ continue holding right after the walljump and once you just start facing right a
 buffer the walljump and the cornerjump, then dash first frame on collecting the berry and cjump exit.|
 |
 It's quite easy to get 1f off the tas time here, getting the tie will take trying it for a bit.|
-The reason why you need to wait on each step is because you need to dash when the berry is on a specific frame of it's cycle.|
+The reason why you need to wait on each step is because you need to dash when the berry is on a specific frame of its cycle.|
 this is also the first tas strat which is used in normal rta runs.
