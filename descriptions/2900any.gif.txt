@@ -2,6 +2,6 @@ Tas tie of 2900m any%. Achieved by me on 12/12/2020.|
 |
 Start the level holding right, and then delay a downrightdash by a single frame.|
 Buffer a gracejump and an nsfw cjump, and then precisely time two upright dashes to clip on the last spike block.|
-Do a first frame upright dash and gracejump from the last spike block, and then updash to exit.|
+Do a first frame upright dash on the last spike block, and then updash to exit.|
 |
 The two uprights are very difficult to time properly, finding a good cue is very important.
