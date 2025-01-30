@@ -1,4 +1,6 @@
 Tas tie of 1300m any%. Achieved by me on 2/8/2022.|
 |
-Honestly this IL feels like gambling. There isn't much to it other than making sure you change your parity at some point (I did it on the wall)|
-and making sure your movement is as tight as possible.
+Honestly this IL feels like gambling.|
+the most important things to keep in mind while going for this are:|
+ - get the first dashes exactly as in the gif.|
+ - change your parity by brushing against the wall or border, but walljump off the upper wall while 2px away from it (done here by brushing against it and then drifting away before walljumping)
