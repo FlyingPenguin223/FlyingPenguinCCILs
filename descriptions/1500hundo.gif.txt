@@ -1,0 +1,6 @@
+Tas tie of 1500m 100%. Achieved by me on 7/10/2022.|
+|
+The beginning of this IL is precise but is exactly as it appears. Simply upleft and then downright to grab the key.|
+Then, rightdash as early as possible and precisely jump upright to the spring and do the same maneuver there as in the any% tas.|
+However, the dash to the final platform is not frame perfect. If the early dash is done, then delay the upleft by 1f so to not miss the berry.|
+If the 1f later leftdash was done, then the upleft is first frame. Gracejump from the upleft and updash to exit.

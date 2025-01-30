@@ -1,0 +1,8 @@
+Tas tie of 2400m gemskip. Achieved by me on 8/5/2022.|
+|
+Start the level by pressing left for one frame before doing a rightdash.|
+Delay the gracejump (I like to use leaving the ground as a visual cue for when to do it) and do a first frame updash.|
+Tap right while against the wall before the walljump in order to get the cornerjump off the ice, and spikejump to clip at the top.|
+Don't jump from this clip, and hold neutral, and do an empty dash to buffer a walljump and cornerjump to exit.|
+|
+I would recommend studying the tas file for this one a bit, or even making a practice cart which teleports you to the start of the awkward part on the wall.

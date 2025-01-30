@@ -1,0 +1,9 @@
+Tas tie of 2700m gemskip. Achieved by me on 6/29/2023.|
+|
+Start the level holding right and delay a jump by a single frame.|
+Diag exactly where I do in the gif (I like to use the bg tile as a visual cue) and buffer left.|
+On the exact frame when you visually move left, release left and updash on the same frame, and buffer right to clip.|
+While falling, tap left for 2f to wallslide and manipulate your y position.|
+Hold right briefly before walljumping to cornerjump on the next wall.|
+Here, I would recommend studying the tas, but essentially you have to upleft immediately after cornerjumping, and then hold right and delay a walljump.|
+Then, upleft dash and walljump perfectly to get a nsfw cornerjump to exit.

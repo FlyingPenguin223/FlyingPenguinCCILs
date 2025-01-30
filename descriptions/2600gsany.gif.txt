@@ -1,0 +1,13 @@
+Tas tie of 2600m gemskip. Achieved by me on 8/18/2023.|
+|
+This is probably the most difficult gemskip IL in the game, though an argument can be made for 2800m.
+|
+Start the level holding right and downright dash one frame later, similar to the 100% tas.|
+Delay the gracejump as much as possible (as does the 100% tas), and updash and precisely press left to clip the block.|
+Buffer a gracejump from it and continue holding left to approach the next platform before updashing to clip it.|
+Drift right a bit before doing a late gracejump and immediate updash to clip the spikes.|
+The movement at the very end here is very difficult, and I would recommend studying the tas for the specific timings.|
+Hold right on the clip to move past the spikes but do not wallslide on the next wall.|
+Release right to fall for just enough time that you can walljump and upright and cornerjump to the end platform. do an upright dash to exit.|
+|
+The ending is extremely difficult here, I spent forever losing single frames there before finally pulling it off.

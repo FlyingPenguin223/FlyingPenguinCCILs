@@ -1,0 +1,5 @@
+Tas tie of 1400m 100%. Achieved by me on 8/18/2023.|
+|
+All the movement to the top area is identical to any%, including the final walljump, but make sure you do a leftdash instead of an upleft.|
+On the top area, do 3 leftdashes, and then jump and downleft to grab the berry, and gracejump from the downleft to exit.|
+Make sure not to dash to exit, as that will only lose you the number of frames in the dash startup animation.

@@ -1,0 +1,15 @@
+Tas tie of 2500m 100%. Achieved by me on 9/21/2024.|
+|
+This IL is not for the faint of heart, or for the weak fingered. If you have hand pains, avoid this one.|
+|
+The seed here is necessary (if you like seeding) to get a good position on the chest berry.|
+|
+I'd highly recommend looking at the tas file to get a sense of the inputs, but I'll describe them approximately here.|
+Start the level holding left, but release left for one frame after reaching max walking speed.|
+Gracejump last frame and release left to drift just past the spike block.|
+Tap left just before you would die to the left spikes and cornerjump flush with the wall (similar to 1600m).|
+Downright dash immediately upon grabbing the key and *emptydash* to land on the platform (so you wait long enough for the berry to spawn)|
+Holding right after the empty dash and rightdash on the last possible frame that grabs the berry (there might only be one frame, idk, dash to the right and grab it).|
+From there, the movement is very similar to the any% IL, with only one more dash to get to the spring.|
+|
+If you're consistently one frame off the tas tie, you may be releasing left at the start early. I had that problem for a while and quickly got the tie once I realized.

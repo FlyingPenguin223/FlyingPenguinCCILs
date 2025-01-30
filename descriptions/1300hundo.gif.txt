@@ -1,0 +1,6 @@
+Tas tie of 1300m 100%. Achieved by me on 9/17/2024.|
+|
+The start is pretty much how it looks, delay the gracejump from the downdiag and cjump rightdash to the chest platform.|
+Here, you need precise chest berry rng (which is the reason for the annoying seed, sorry) to immediately jump updash while grabbing the berry and going past the block.|
+Make sure you do not press left at all before the walljump (you have 2f of leniency here to press left) and leftdash on the block.|
+Buffer the gracejump and do the ending pretty much how it looks, though note everything is frame perfect.

@@ -1,0 +1,6 @@
+Tas tie of 3000m any%. Achieved by me on 8/10/2020.|
+|
+Start the level with a buffered downright dash and buffered gracejump.|
+Then, upright dash through the gap. This timing is deceptively difficult, you have a split window to dash here, and you need the earliest timing which is frame perfect.|
+Many people struggle with this timing by trying to do it too late, as doing it 1f later than the correct timing kills you, and later than that is a frame slow.|
+Then, upleft dash below the balloon to grab it and updash twice and walljump to exit.

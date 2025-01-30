@@ -1,0 +1,9 @@
+Tas tie of 2500m gemskip. Achieved by me on 7/16/2022.|
+|
+This one is strange. Buffer a rightdash at the start and delay another rightdash to be very low. Many timings look superficially similar in that|
+they also land on the crumble, but only the one shown in the gif is correct.|
+Buffer a jump from the crumble and updash to clip the spikes (this is indeed a 4 block clip with an updash, which works because you get a landing clip).|
+Hold left to walk on the spikes for a while before jumping as early as possible and releasing left to get a bit more height before doing more walljumps.|
+Updash early to clip the spikes on the right, and jump from them and do a down facing spikeclip to exit.|
+|
+This IL objectively isn't too bad, but the movement from the clip is really awkward, so I would recommend making a practice cart to get a feel for it.

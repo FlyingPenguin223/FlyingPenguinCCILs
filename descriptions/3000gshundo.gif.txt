@@ -1,0 +1,10 @@
+Tas tie of 3000m gemskip 100%. Achieved by me on 7/4/2023.|
+|
+This level is very complex, but is one of the easier gemskip 100% ILs. I would put it as harder than 2500m, but easier than all the others.|
+|
+Start the level with an any% style downright dasn gracejump, and upright through the gap. Here you want one of the later timings than the any% IL.|
+Updash first frame from the balloon and drift right to be aligned with the overhang.|
+Release right deceptively early and buffer a cornerjump off the wall.|
+After grabbing the key, hold left while falling back down but at some point while falling release left for two frames.|
+Continue drifting left to align yourself with the tiny nub, and then press left 1f before walljumping off it to get a similar clip to the gemskip any% tas.|
+Then, simply jump updash to clip the ending platform and jump to grab the berry and exit without dashing.

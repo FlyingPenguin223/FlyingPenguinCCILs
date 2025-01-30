@@ -1,0 +1,6 @@
+Tas tie of 2800m 100%. Achieved by me on 9/15/2024.|
+|
+The beginning of this IL is identical to the any% tas, but after the clip, buffer a jump and immediately updash and drift right to grab the key.|
+Precisely drift back left and do an upleft dash as early as possible and cornerjump, then updash on the berry to exit.|
+|
+Note that due to update order, dashing first frame on collecting a chest berry feels different than from a normal berry.

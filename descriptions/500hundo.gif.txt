@@ -1,0 +1,12 @@
+Tas tie of 500m 100%. Achieved by me on 9/23/2024.|
+|
+This one is very precise and will probably require studying the tas file a bit to understand.|
+First, do the any% clip (I think some setups can cause you to be too far left though, idr) and delay the jump by one frame.|
+Then, downright as early as possible and drift left to be 2px away from the left wall.|
+Walljump a couple frames after collecting the key to land as quickly as possible but note that you do not clip the platform and instead visibly fall onto it.|
+Rightdash first frame on the platform and then upleft the frame you collect the berry to keep your dash.|
+Do a second upleft as early as possible and then cornerjump, and slightly delay the second walljump.|
+Before the final walljump (which is also very delayed), hold left for enough frames to drift 2px away from the wall.|
+Then do the ending however you like. The easy way (which I don't do in this gif) is to immediately upleft gracejump, or you can jump updash if you want.|
+|
+As of writing this (30 January 2025) this is the most recently improved tas in any of the four major categories.

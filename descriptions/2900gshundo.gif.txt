@@ -1,0 +1,6 @@
+Tas tie of 2900m gemskip 100%. Achieved by me on 9/15/2024.|
+|
+Start the level with a buffered upleft dash and then hold right to clip the first block.|
+Continue holding right until you're at the correct spacing to spikejump off the next spike block, updash, and hold left before delaying a spikejump.|
+Do a first frame rightdash on the berry, and then after the dash is finished, while falling, release right for one frame.|
+Fall to a precise height before doing an upright dash to clip the end, and then do the same ending as in the gemskip any% tas.

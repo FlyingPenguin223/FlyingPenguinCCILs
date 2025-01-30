@@ -1,0 +1,12 @@
+Tas tie of 2800m gemskip. Achieved by me on 4/5/2024.|
+|
+This is arguably the most difficult gemskip IL, along with 2600m.
+|
+Start the level with the same delayed downright dash as in the any% tas, and the same walljump.|
+However, while holding right, tap left for one frame to wallslide on the middle block, and then release right.|
+Once past the middle block, hold right for 4 frames before immediately releasing right and doing an empty dash on the same frame.|
+Do a first frame dash off the crumble, buffer a gracejump, and do a very early upright dash.|
+Here, the first cornerjump must be delayed by one frame, which forces the next cornerjump to require a perfect 15hz mash.|
+After that, updash and clip the spikes.|
+The horizontal movement for the ending is very very precise, and will require some tinkering in the tas tool to understand and find a timing that works.|
+For this reason, I recommend studying the file for this part.

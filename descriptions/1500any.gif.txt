@@ -1,0 +1,8 @@
+Tas tie of 1500m any%. Achieved by me on 8/7/2020.|
+|
+This one is deceptively technical. Start with a buffered rightdash and jump upright as early as possible (but make sure the upright is very late relative to the jump).|
+Hold neutral while approaching the spring and frame perfectly tap right to touch the spring without clipping the crumble (which would lose 1f).|
+Hold neutral for a couple more frames before holding left to perfectly drift past the blocks without bonking on them (This part is very precise, I recommend looking at the tas file).|
+Rightdash at exactly the height of the final platform, buffer a jump off of it, and updash exactly against the spikes.|
+There are two ways to do the ending, one is to continue holding neutral and perfectly mash jump (one frame jump, next frame released, next frame pressed again)|
+to cjump at the end, or to press right the frame before the first walljump which gives the cjump a 2 frame window, which many find easier than the mash.

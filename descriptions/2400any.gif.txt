@@ -1,0 +1,8 @@
+Tas tie of 2400m any%. Achieved by me on 7/30/2020.|
+|
+There are a ton of routes to get this time. I will describe the method I used in the gif here, but the warspy strat is pretty good too.|
+|
+Start the level with a simple buffered rightdash gracejump and a first frame updash.|
+Then, delay the walljump by a single frame, as in, make it one frame after it would happen if it were buffered.|
+Do a fairly late upright dash and spikejump and you should clip the spikes without a bonk on the ice block.|
+Don't jump from the clip, and do a simple leftdash and upleft to exit.

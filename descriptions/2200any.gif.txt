@@ -1,0 +1,8 @@
+Tas tie of 2200m any%. Achieved by me at an unknown time, likely sometime 2020-2021.|
+|
+Diag to clip the ground the chest is on, and rightdash to it.|
+Buffer a jump from the chest animation and updash under the gem. This is quita hard to time visually as you will have to react to the jump or analyze the bg patterns, so I recommend using the chest sound effect as a cue.|
+Updash again after collecting the gem, and diag to cornerjump on the ice and walljump to exit.|
+|
+This IL is deceptively difficult, and is not on speedrun.com, because while this level grabs the gem as is done in the full game any% route, the fastest way to beat this level|
+in a vaccuum is to skip the gem. That completion is posted both for any% and gemskip on the leaderboards. IMO this should be changed but it's not a big deal.

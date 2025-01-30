@@ -1,0 +1,10 @@
+Tas tie of 1700m 100%. Achieved by me on 8/21/2023.|
+|
+This IL is probably one of the most finger pain inducing ones in the entire game. Approach with caution. Take a moment to view the input display at the start.|
+|
+Start the level with a buffered leftdash, and downdash first frame immediately after breaking the berry block.|
+Hold left to walk into the berry, and release and tap right immediately before updashing the frame the berry is collected.|
+Hold right after the first updash and perform the second updash early in order to barely clip the spikes.|
+Gracejump slightly delayed and diag walljump to exit.|
+|
+It is also worth noting that in newleste (or any other port which uses floats rather than p8's fixed-point numbers) the right tap above the berry is not needed.

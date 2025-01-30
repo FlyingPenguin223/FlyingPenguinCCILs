@@ -1,0 +1,9 @@
+Tas tie of 2600m gemskip 100%. Achieved by me on 9/22/2024.|
+|
+This is classically the most difficult IL in the entire game, though an argument can be made for 2800 gemskip 100%.|
+It is a gauntlet through and through and required multiple practice carts for me to get the hang of.|
+It was the last IL snoo completed for the first complete tas tie sweep in 2021, and the last one I completed for mine in 2024 (before snek improved 500m 100% lol).|
+|
+Essentially, there is no room for error. Anywhere. It is the longest IL in the game, full of precise inputs and delays and weirdness which all have to be frame perfect.|
+If you intend to complete this, good luck. Study the tas file well (and make sure it's the right one, the tas db might be outdated) and practice thouroughly.|
+Most importantly, have fun!

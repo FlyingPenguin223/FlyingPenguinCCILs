@@ -1,0 +1,7 @@
+Tas tie of 2900m gemskip any%. Achieved by me on 7/16/2022.|
+|
+Start the level with a buffered downright dash, then buffer a gracejump and immediately do an upright dash.|
+This will clip the spikes, however you must also briefly release right upon clipping and then hold it again and cornerjump off the above block and upright to clip the end.|
+After the final clip, hold right for a while before jumping on the last possible frame, and then updash and walljump to exit.|
+|
+The movement on the first clip is very awkward, I would recommend studying the tas file to get the specific inputs.

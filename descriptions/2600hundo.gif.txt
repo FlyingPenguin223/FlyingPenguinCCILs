@@ -1,0 +1,6 @@
+Tas tie of 2600m 100%. Achieved by me on 3/22/2024.|
+|
+Start the level holding right and downright dash on the next frame.|
+Delay a gracejump as much as possible and hold right for a while before rightdashing to grab the key and immediately upleft dashing to cleanly land on the block.|
+Leftdash from the block first frame and do similar but slightly different movement as the any% tas to clip the spike, and the same downright and upright to get to the end.|
+downright first frame on the block to grab the berry and updash twice to exit.

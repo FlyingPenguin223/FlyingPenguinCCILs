@@ -1,0 +1,13 @@
+Tas tie of 2600m any%. Achieved by me on 2/13/2022.|
+|
+This is likely one of, if not the hardest any% IL.|
+For this reason, I will describe the timings approximately but I would highly recommend studying the tas for this one. Good luck.|
+|
+Start the level with a buffered rightdash. Do not buffer the gracejump from it, it's delayed slightly.|
+Do the next rightdash very soon after the gracejump, and immediately updash.|
+You cannot buffer left from the updash, but must instead press left frame perfectly to clip the block. Do a leftdash on the first frame possible and buffer the gracejump.|
+Here, the updash must be precisely delayed. Study the tas for the specific inputs that need to be done for the correct horizontal positioning.|
+Updash, buffer left from it, and very quickly upright dash to clip the spikes.|
+Buffer a jump there and downright dash and upright dash before simply buffering a jump at the end to exit (don't dash, it loses time).|
+|
+This level is just hell in every category lol
