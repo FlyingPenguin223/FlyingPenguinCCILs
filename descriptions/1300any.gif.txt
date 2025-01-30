@@ -1,6 +1,7 @@
 Tas tie of 1300m any%. Achieved by me on 2/8/2022.|
 |
 Honestly this IL feels like gambling.|
-the most important things to keep in mind while going for this are:|
- - get the first dashes exactly as in the gif.|
- - change your parity by brushing against the wall or border, but walljump off the upper wall while 2px away from it (done here by brushing against it and then drifting away before walljumping)
+The most important things to keep in mind while going for this are:|
+ - Get the first dashes exactly as in the gif.|
+ - Change your parity by brushing against the wall or border, but walljump off the upper wall while 2px away from it (done here by brushing against it and then drifting away before walljumping)|
+ - If you change your parity using the border, you will need to tap right before walljumping off the upper wall, which I would recommend messing with in Celia
