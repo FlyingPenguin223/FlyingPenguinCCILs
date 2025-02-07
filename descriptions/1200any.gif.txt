@@ -1,4 +1,5 @@
 Tas tie of 1200m any%. Achieved by me on 06/19/2020.|
 |
 Fairly simple IL. Don't think There's much to explain here,|
-do what's done in the gif but pay attention to when an input is delayed.
+do what's done in the gif but pay attention to when an input is delayed.|
+Make sure you exit with a cornerjump, it may be hard to see behind the input display.
