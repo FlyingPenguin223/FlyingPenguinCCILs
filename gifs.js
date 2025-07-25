@@ -12,7 +12,7 @@ xhr.onload = () => {
 function getGifs(searchTags) {
 	return database.filter(gif => {
 		for (let tag of searchTags) {
-			return gif.tags.includes(tag)
+			return gif.tags.includes(tag) || tag === "all"
 		}
 	});
 }
