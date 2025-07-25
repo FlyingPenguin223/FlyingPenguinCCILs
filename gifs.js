@@ -12,6 +12,8 @@ xhr.onload = () => {
 function getGifs(searchTags) {
     return database.filter(gif => {
         for (let tag of searchTags)
+			if (tag == "all")
+				return true;
             if (!gif.tags.includes(tag))
                 return false;
         return true;
