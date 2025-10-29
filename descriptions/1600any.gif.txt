@@ -6,5 +6,5 @@ Start the level with a buffered jump while holding right, and downright to landi
 Buffer a gracejump (yep, it's not a walljump (though it doesn't make a difference here since walljumps and normal jumps have identical y trajectories)) and clip the spike by holding right.|
 Gracejump early from the boost, and tap left to align yourself precisely with the left edge of the wall (not with the spikes).|
 tap left just before you would die to the spikes and walljump so that the walljump is performed flush with the wall, rather than 2px away as in a normal spikejump.|
-updash and hold right to clip the final spikes on the top, and jump updash to exit.|
+updash and hold right to clip the final spikes on the top, and jump updash or instantly diag dash gracejump to exit (I did jump updash but the diag is probably easier)|
 if you get this, congrats on sub-2 club!
