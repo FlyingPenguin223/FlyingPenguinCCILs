@@ -10,4 +10,5 @@ If you've done the inputs properly, you should be able to cornerjump very late o
 and barely grab the balloon with good rng. Then, hold left for two full frames (!!)before grabbing the balloon.|
 Upleft dash first frame off the balloon and buffer two walljumps to exit.|
 |
-As of writing this (March 14 2024) this is the most recently improved tas in vanilla.
+As of writing this (March 14 2024) this is the most recently improved tas in vanilla.|
+As of September 22 2024, this is no longer the case as 500m 100% was improved by snek
