@@ -4,7 +4,7 @@ This is the other potentially hardest IL in the game. Like 2600m gemskip 100%, i
 |
 The beginning is the same as in the gemskip any% IL (though note the RNG seed I used means there is no visible smoke from the 1f wallslide at the start).|
 Don't jump from the clip, and delay an updash by one frame, and drift to the right to grab the key.|
-Drift back to the right to land on the crumble, and then jump updash and drift precisely to cornerjump off the wall, and updash from the berry (with good rng).|
+Drift back to the left to land on the crumble, and then jump updash and drift precisely to cornerjump off the wall, and updash from the berry (with good rng).|
 |
 Rather than 2600 being a mess of frame perfects constantly, the main difficulty in this level is that the ending requires extremely precise control over maddy|
 along with a couple strict frame perfects, after the extremely difficult beginning.
