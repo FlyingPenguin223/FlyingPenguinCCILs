@@ -1,8 +1,8 @@
-Tas tie of 2200m gemskip, Achieved by me on 5/15/2020.|
+Tas tie of 2200m gemskip, Achieved by me on 3/12/2026.|
 |
-Diag to the chest platform, and delay a jump from it by one frame.|
-Rightdash such that your feet are just above the chest sprite, and hold right just enough to fall into the ditch and then hold neutral.|
-Walljump frame perfectly and hold left to get a 6px boost on the chest platform, and gracejump updash to the exit.|
+There are probably a couple viable routes for this, below is the one I used:|
 |
-This level will probably take a bit of brute forcing to squeeze the last couple frames out, but it's not too bad.|
-An easier version of this is often used in high level full game gemskip runs.
+Diag to the chest platform, and buffer jump. Rightdash such that your feet are just above the chest sprite, and hold neutral.|
+A couple frames before hitting the ground (check the spacing in the tas tool, theres no clear cue), piano right for one frame then hold left.|
+Walljump frame-perfectly and hold left to boost, and then keep in mind that the ending is probably easiest by drifting right before updashing|
+so you can hold either left or neutral before walljumping to exit (this gif drifted too far to the right and had to hold left).
