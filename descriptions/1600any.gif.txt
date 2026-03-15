@@ -2,4 +2,29 @@ Tas tie of 1600m any%. Achieved by me on 3/11/2026.|
 |
 As of 2/14/2026 this is the most recently improved TAS in the any% category.|
 |
-Oh god, please no
+This is the hardest IL in the game (probably), about 11 frame perfects which are far too fast for any cues,|
+you just have to memorize the inputs and pray. Ensure you spend a lot of time frame advancing your own gifs|
+to ensure that you're doing the inputs correctly as its nearly impossible to tell in the moment.|
+|
+A couple tips that helped me:|
+|
+ - During the lr manoeuvre to clip the spike, it's important to remember that the last l input coincides with the jump input.|
+   this will feel a little awkward in real time, you have to sort of "lean" on the l key.|
+|
+ - For some reason, an extra l tap after the clip (before the cjump) appeared in my muscle memory at one point. It took a lot|
+   of effort to get rid of it, it helps immensely to make sure you're frame advancing gifs and staying focused on the specific|
+   inputs you're doing. Losing focus will hurt here so much more than any other IL, as there is only muscle memory to depend|
+   upon.|
+|
+ - Get in the habit of attempting the next inputs after any specific section, for a while I was trapped never expecting to get the|
+   boost and just resetting constantly, it helps immensely to just go for the next part, even if you haven't gotten the specific|
+   inputs down yet. Eventually you will, and getting the base muscle memory down to be refined later is important. Always expect|
+   to get the inputs correct, so when you do you don't reset early.|
+|
+ - Consistency will come eventually, even if it takes sleeping on it. If some section really feels impossible for an extended|
+   period of time, take a gif and frame advance it to find the specific thing you're doing wrong, and try to fix the muscle memory,|
+   or just take a break! it takes a lot of time, but you'll find every day you get more and more attempts farther in.|
+|
+ - Really, Take breaks! The j,n,j input is stressful and I often found my shoulder getting sore over the hours, I found that my|
+   first couple attempts after taking breaks were somehow like always correct, it was difficult getting past the frustration of|
+   needing to stop but it always helped in the end.
