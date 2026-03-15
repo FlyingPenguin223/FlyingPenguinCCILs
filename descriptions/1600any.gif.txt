@@ -25,6 +25,6 @@ A couple tips that helped me:|
    period of time, take a gif and frame advance it to find the specific thing you're doing wrong, and try to fix the muscle memory,|
    or just take a break! it takes a lot of time, but you'll find every day you get more and more attempts farther in.|
 |
- - Really, Take breaks! The j,n,j input is stressful and I often found my shoulder getting sore over the hours, I found that my|
+ - Really, take breaks! The j,n,j input is stressful and I often found my shoulder getting sore over the hours, I found that my|
    first couple attempts after taking breaks were somehow like always correct, it was difficult getting past the frustration of|
    needing to stop but it always helped in the end.
